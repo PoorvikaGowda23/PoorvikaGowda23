@@ -25,7 +25,6 @@
 
 - 🎓 Class Representative – MSc Data Science, PSG Tech  
 - 📱 Social Media Lead – Rotaract Club, PSG Tech  
-- 🏃 Kho-Kho Player – Represented school at multiple tournaments
 
 ---
 
