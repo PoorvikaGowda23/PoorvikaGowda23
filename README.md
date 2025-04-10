@@ -2,7 +2,7 @@
 
 🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
 💡 Passionate about building intelligent systems that bridge data and real-world applications  
-🌱 Currently exploring Multimodal AI, NLP, and Real-time Computer Vision  
+🌱 Currently exploring AI, NLP, and Real-time Computer Vision  
 
 ## 🧠 Skill Set
 
