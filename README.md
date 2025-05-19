@@ -1,10 +1,10 @@
-# 👋 Hey there, I’m Poorvika C!
+# Hey there, I’m Poorvika C!
 
-🎓 3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
-💡 Passionate about building intelligent systems that bridge data and real-world applications  
-🌱 Currently exploring AI, NLP, and Real-time Computer Vision  
+3rd Year Integrated M.Sc Data Science Student at PSG College of Technology  
+Passionate about building intelligent systems that bridge data and real-world applications  
+Currently exploring AI, NLP, and Real-time Computer Vision  
 
-## 🧠 Skill Set
+## Skill Set
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -21,16 +21,16 @@
 
 ---
 
-## 🏅 Activities & Leadership
+## Activities & Leadership
 
-- 🎓 Class Representative – MSc Data Science, PSG Tech  
-- 📱 Social Media Lead – Rotaract Club, PSG Tech  
+- Class Representative – MSc Data Science, PSG Tech  
+- Social Media Lead – Rotaract Club, PSG Tech  
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poorvikagowda/)  
-📧 Email: [poorvikagowda357@gmail.com](mailto:poorvikagowda357@gmail.com)
+Email: [poorvikagowda357@gmail.com](mailto:poorvikagowda357@gmail.com)
 
 ---
