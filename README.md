@@ -23,7 +23,7 @@ Currently exploring AI, NLP, and Real-time Computer Vision
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poorvikagowda/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/poorvikagowda/)  
 Email: [poorvikagowda357@gmail.com](mailto:poorvikagowda357@gmail.com)
 
 ---
