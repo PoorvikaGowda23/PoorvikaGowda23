@@ -1,6 +1,6 @@
 # Hey there, I’m Poorvika C!
 
-4th Year Integrated M.Sc Data Science Student at PSG College of Technology  
+M.Sc Data Science Student at PSG College of Technology  
 Passionate about building intelligent systems that bridge data and real-world applications  
 Currently exploring AI, NLP, and Real-time Computer Vision  
 
